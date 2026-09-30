@@ -100,9 +100,6 @@ I care more about being able to **reconstruct why an attack worked** than simply
 | Repository         | Purpose                                            |
 | ------------------ | -------------------------------------------------- |
 | **Iron-Vault**     | Cybersecurity knowledge, labs & technical evidence |
-| **Security-Tools** | Security-focused programming and automation        |
-| **MBC-World**      | Cybersecurity education and creative media         |
-| **Projects**       | Larger standalone technical builds                 |
 
 ---
 
